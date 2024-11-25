@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`sanapshot testing 1`] = `"hello, my name is fauzi"`;
